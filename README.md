@@ -23,9 +23,10 @@
   <a href="https://www.linkedin.com/in/edzel-ortiz/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://www.instagram.com/fernan_sierra" target="_blank" style="display: inline-block;">
+  <!-- <a href="https://www.instagram.com/fernan_sierra" target="_blank" style="display: inline-block;">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
-  </a>
+    instagram user
+  </a> -->
 </p>
 
 
