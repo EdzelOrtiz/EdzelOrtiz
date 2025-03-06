@@ -15,7 +15,7 @@
 - I'm a Computer Science and Engineering Undergraduate Student at <a href="https://www.uprm.edu/portada/">University of Puerto Rico</a>
 - 🔭 **Currently working on:** [La Junta de Planificación Fiscal de Puerto Rico](https://github.com/ouslan/jp-webapp)  
 - 📫 **Reach me at:** [edzel.ortiz@upr.edu](mailto:edzel.ortiz@upr.edu)  
-- 📄 **Check out my [Resume](https://drive.google.com/drive/u/2/my-drive)**
+- 📄 **Check out my [Resume](https://drive.google.com/file/d/1VviOTQQUm6BKwvk_7iQS3r4X15Q4ANpu/view?usp=sharing)**
 
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"><b> Connect with Me </b>
