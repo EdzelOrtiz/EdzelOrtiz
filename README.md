@@ -14,13 +14,13 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> About me
 - I'm a Computer Science and Engineering Undergraduate Student at <a href="https://www.uprm.edu/portada/">University of Puerto Rico</a>
 - 🔭 **Currently working on:** [La Junta de Planificación Fiscal de Puerto Rico](https://github.com/ouslan/jp-webapp)  
-- 📫 **Reach me at:** [fernando.sierra3@upr.edu](mailto:fernando.sierra3@upr.edu)  
-- 📄 **Check out my [Resume](https://drive.google.com/file/d/1jvrTMmZjsJnQopowH6xEpcdDApAllq8P/view?usp=sharing)**
+- 📫 **Reach me at:** [edzel.ortiz@upr.edu](mailto:edzel.ortiz@upr.edu)  
+- 📄 **Check out my [Resume](https://drive.google.com/drive/u/2/my-drive)**
 
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"><b> Connect with Me </b>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fernandojsierra/" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/edzel-ortiz/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://www.instagram.com/fernan_sierra" target="_blank" style="display: inline-block;">
